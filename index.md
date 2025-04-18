@@ -11,3 +11,7 @@ void secure_recv_long(int socket_fd, long *value)
 	*value = atol(buffer);
 }
 ```
+
+- [X] A
+- [ ] B
+- [X] C
